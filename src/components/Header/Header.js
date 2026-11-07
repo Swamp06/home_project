@@ -8,10 +8,10 @@ function Header() {
           <img src='./icons/logo.png' />
         </div>
         <div className='navigation'>
-          <a>Home</a>
-          <a>Service</a>
-          <a>Agents</a>
-          <a>Contact</a>
+          <a href="/site">Home</a>
+          <a href="/">Service</a>
+          <a href="/about">About</a>
+          <a href="/contact">Contact</a>
         </div>
         <div className='header_btns'>
           <div className='search_icon'>
